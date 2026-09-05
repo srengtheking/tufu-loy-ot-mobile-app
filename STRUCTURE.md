@@ -52,43 +52,43 @@ loy_ot/
 │   ├── features/
 │   │   │
 │   │   ├── splash/
-│   │   │   └── splash_page.dart
+│   │   │   └── splash_screen.dart
 │   │   │
 │   │   ├── auth/
-│   │   │   ├── login_page.dart
-│   │   │   └── register_page.dart
+│   │   │   ├── login_screen.dart
+│   │   │   └── register_screen.dart
 │   │   │
 │   │   ├── home/
-│   │   │   ├── home_page.dart
+│   │   │   ├── home_screen.dart
 │   │   │   └── widgets/
 │   │   │       ├── category_list.dart
 │   │   │       ├── banner.dart
 │   │   │       └── product_card.dart
 │   │   │
 │   │   ├── products/
-│   │   │   ├── products_page.dart
-│   │   │   ├── product_detail_page.dart
+│   │   │   ├── products_screen.dart
+│   │   │   ├── product_detail_screen.dart
 │   │   │   └── widgets/
 │   │   │       ├── product_card.dart
 │   │   │       ├── size_selector.dart
 │   │   │       └── color_selector.dart
 │   │   │
 │   │   ├── cart/
-│   │   │   ├── cart_page.dart
+│   │   │   ├── cart_screen.dart
 │   │   │   └── widgets/
 │   │   │       └── cart_item.dart
 │   │   │
 │   │   ├── checkout/
-│   │   │   ├── checkout_page.dart
-│   │   │   └── payment_page.dart
+│   │   │   ├── checkout_screen.dart
+│   │   │   └── payment_screen.dart
 │   │   │
 │   │   ├── orders/
-│   │   │   ├── orders_page.dart
-│   │   │   └── order_detail_page.dart
+│   │   │   ├── orders_screen.dart
+│   │   │   └── order_detail_screen.dart
 │   │   │
 │   │   └── profile/
-│   │       ├── profile_page.dart
-│   │       └── edit_profile_page.dart
+│   │       ├── profile_screen.dart
+│   │       └── edit_profile_screen.dart
 │   │
 │   └── widgets/
 │       ├── app_button.dart
